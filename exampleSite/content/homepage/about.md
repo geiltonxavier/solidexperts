@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Consulting in the area of information technology and focused on the development of systems that provide extreme quality and performance. Our systems are all aligned with the cloud strategy and are designed to be cloud native.

@@ -1,9 +1,14 @@
 ---
-title: 'We Help Business Grow'
+title: 'Best practices for software development.'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+
+
+We love what we do, that's why we do it well.
+We create customized and scalable solutions to innovate in products and services using agile methodologies.
+
+We help you to develop systems using the SOLID Principles.
