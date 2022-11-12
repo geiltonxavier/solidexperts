@@ -12,11 +12,11 @@ theme = "hugo-hero-theme"
 [params]
   google_analytics_id=""
 
-  [params.logo]
+  [params.logo] 
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/solid-desktop.svg"
+    desktop = "images/logo.svg"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "SolidExperts"
