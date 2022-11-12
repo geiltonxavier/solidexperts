@@ -3,7 +3,7 @@
 
   <style>
     .small {
-      font: italic 13px sans-serif;
+      font: italic 24px sans-serif;
     }
     .heavy {
       font: bold 30px sans-serif;
